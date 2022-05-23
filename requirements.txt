@@ -1,0 +1,17 @@
+pandas-profiling
+streamlit
+keras
+scikit-learn
+pandas
+tensorflow
+numpy
+autokeras
+keras
+matplotlib
+xgboost
+seaborn
+scipy
+joblib
+scikit-plot
+mlxtend
+Jinja2
