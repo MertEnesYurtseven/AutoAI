@@ -1,7 +1,7 @@
 # Define timesteps and the number of features
-from keras.layers import *
+from tensorflow.keras.layers import *
 from tensorflow.keras import Model
-from keras.regularizers import *
+from tensorflow.keras.regularizers import *
 import numpy as np
 n_timesteps = 8
 

@@ -1,1 +1,6 @@
+# exclude cache
 AutoAI/__pycache__
+
+# exclude outpus
+AutoAI/output.zip
+AutoAI/output/
